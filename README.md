@@ -1,6 +1,6 @@
 🚀 DocBot: Document Research & Theme Identifier
 
-A full-stack AI-powered system built for deep document research, intelligent theme identification, and citation-based answers — designed as part of the Generative AI Internship Task at Wasserstoff.
+A full-stack AI-powered system built for deep document research, intelligent theme identification, and citation-based answers — designed as part of the Generative AI Internship Task at Wasserstoff by Simarpreet Singh.
 
 This system enables users to upload large sets of documents, ask natural language questions, and get context-aware, theme-driven answers with fine-grained citations, powered by Retrieval-Augmented Generation (RAG).
 
