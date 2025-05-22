@@ -7,7 +7,7 @@ from typing import List, Dict, Any, Optional
 import time 
 
 # --- Configuration ---
-BACKEND_URL = os.environ.get("BACKEND_API_URL", "http://localhost:8000")
+BACKEND_URL = os.environ.get("BACKEND_API_URL", "https://huggingface.co/spaces/Parallax316/DocBot")
 # The backend will now always use the fast parser.
 # The `processing_mode` parameter will be removed from the API call.
 DOCUMENTS_UPLOAD_URL = f"{BACKEND_URL}/api/v1/documents/upload-multiple" 
